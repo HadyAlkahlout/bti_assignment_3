@@ -1,5 +1,8 @@
 # assignment_2
 
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-09-19 at 15 14 07](https://github.com/HadyAlkahlout/bti_assignment_3/assets/71126506/5cd55934-fbc7-413d-8b42-9feb567bfe99)
+
+
 A new Flutter project.
 
 ## Getting Started
